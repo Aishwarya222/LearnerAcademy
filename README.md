@@ -1,4 +1,4 @@
-# LearnerAcademy
+# LearnerAcademy - Using Hibernate
 
 Project objective: 
 
